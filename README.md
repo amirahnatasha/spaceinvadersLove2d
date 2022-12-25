@@ -1,8 +1,6 @@
 # Space Invaders using Love2D
 A remake of the classic Space Invaders using Love2D
 
-#### Video Demo : https://youtu.be/W5PgUOAK4r0
-
 ## Framework
 This project is written in lua programming language and uses the Love2D framework.
 <br/>
