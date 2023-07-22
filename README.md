@@ -16,3 +16,6 @@ Eliminate all the aliens before it reaches down.
 
 ## Screenshots
 ![A screenshot of the space invaders game.](screenshot.jpg)
+
+## Distribution
+Download the zip file to play.
